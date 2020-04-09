@@ -1,0 +1,19 @@
+.jumbotron{
+    text-align: center;
+    border-radius: 20px;;
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1586448910234-297fae7189e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#nav{
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    z-index:1;
+}
