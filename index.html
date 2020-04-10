@@ -3,10 +3,52 @@
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="mystyles.css">
+    <script src="https://kit.fontawesome.com/4eb99d82bc.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <title>Alec's COVID-19 Project</title>
 </head>
+
+<div class="jumbotron" style="width: 60%;">
+    <h1 class="display-4">Welcome to Alec's COVID-19 Project<br><i class="fas fa-virus-slash"></i></h1>
+    <p class="lead">A Visualization of Cases and Deaths For All Countries Around the World</p>
+    <div class="mb-4">
+        <br>
+        <!-- Gradient divider -->
+        <hr data-content="New Here?" class="hr-text">
+    </div>
+
+    <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    View the Demo
+  </button>
+  
+  <!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+    <div class="modal-content">
+    <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">How To Interact With The Visualization</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+
+    <div class="modal-body">
+        <video width="480" height="240" controls src="video demo.mp4"></video>
+    </div>
+    
+    <div class="modal-footer">
+        <button type="button" class="btn btn-success" data-dismiss="modal">I Understand</button>
+    </div>
+    </div>
+</div>
+</div>
+</div>
+
+<br><br><br>
 <!-- Embedded iframe -->
-        <br><br><br>
 <div class="col-md-5" style="display: table; margin: 0 auto;">
 <iframe width="1366" height="720" src="https://datastudio.google.com/embed/reporting/9d573e30-5a2a-4832-9d0c-98781d7a459e/page/dWELB" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
