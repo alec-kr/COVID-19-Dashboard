@@ -8,14 +8,24 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover; 
+    position: relative;
+    top: 80px;
+}
+
+#welcome{
+    font-size: 2em;
+}
+
+#subtitle{
+    font-size: medium;
 }
 
 .jumbotron{
-    border-radius: 100px;
+    border-radius: 40px;
     margin: 0 auto;
-    background-color: #212121;
+    background-color: rgba(33,33,33,0.9);
     color: whitesmoke;
-    width: 80%;
+    width: 60%;
     display: table;
 }
 
@@ -51,4 +61,17 @@ h5{
 
 .display-4{
     font-size: 20px;
+}
+
+footer{
+    background-color: rgba(33,33,33,0.8);
+    color: #999;
+    width: 100%;
+    font-weight: bold;
+}
+
+#navbar{
+    position: fixed;
+    width: 100%;
+    top: 0 !important;
 }
