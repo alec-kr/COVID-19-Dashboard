@@ -8,7 +8,7 @@ Welcome to the COVID-19 Dashboard project! This interactive web application allo
 
 - **Interactive Map🗺️:** View COVID-19 cases and deaths on a world map. Click on individual countries to access detailed information about cases and deaths in that country.
 <p align="center">
-  <img src=https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/7e6b1537-6d0e-4070-9689-5455e8d47b3f alt="Interactive Map" width="300">
+  <img src="https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/b837df98-2424-4263-b3ac-6c09613fd360" alt="Interactive Map" width="300">
 </p align="center">
 
 - **Line Graph📈:** Track the progression of COVID-19 cases and deaths over time through an interactive line graph. This helps you understand the trends and patterns of the pandemic globally.
