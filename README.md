@@ -13,15 +13,15 @@ Welcome to the COVID-19 Dashboard project! This interactive web application allo
 
 - **Line Graph📈:** Track the progression of COVID-19 cases and deaths over time through an interactive line graph. This helps you understand the trends and patterns of the pandemic globally.
 <p align="center">
-  <img src=https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/428e336d-0fa8-49c5-a0b3-6a76eb621536 alt="Interactive Line Graph" width="300">
+  <img src="https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/4ad2a546-2317-4f06-a3f4-0690a68d37c6" alt="Interactive Line Graph" width="300">
 </p align="center">
 
 - **Country Details📊:** Tap on a country on the map to get specific details about COVID-19 cases and deaths for that country. Stay up-to-date with the latest numbers.
 
 - **Top Countries🌍:** Visualize the countries with the highest number of cases and deaths using tables and bar graphs. This feature provides a quick overview of the most affected regions.
 <p align="center">
-  <img src=https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/d6d1b55e-0b75-4e72-9449-e32dae99ec3c alt="Top Countries on Table" width="300">
-  <img src=https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/6e53a87f-fa7d-4c22-9638-cadc5944d25e alt="Top Countries on Interactive Bar Chart" width="300">
+  <img src="https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/95a5814c-c2b1-4773-ab7b-090a4161240d" alt="Top Countries on Table" width="300">
+  <img src="https://github.com/alec-kr/COVID-19-Dashboard/assets/52685467/e920687e-053f-43dc-b22f-53685bcf5740" alt="Top Countries on Interactive Bar Chart" width="300">
 </p align="center">
 
 ## Usage 📋
